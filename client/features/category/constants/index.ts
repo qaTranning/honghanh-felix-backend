@@ -1,0 +1,1 @@
+export const CATEGORY_MODULE_NAME = 'CATEGORY';

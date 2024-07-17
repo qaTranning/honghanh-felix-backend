@@ -1,0 +1,6 @@
+{
+  "app_config": "app config",
+  "create": "create app config",
+  "update": "update app config",
+  "list": "app config list"
+}

@@ -1,0 +1,14 @@
+{
+  "upsert_form": {
+    "firstname": {
+      "label": "First Name",
+      "required": "First name is required",
+      "placeholder": "Enter first name"
+    },
+    "lastname": {
+      "label": "Last Name",
+      "required": "Last name is required",
+      "placeholder": "Enter last name"
+    }
+  }
+}

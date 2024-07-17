@@ -1,0 +1,5 @@
+{
+  "login": "login",
+  "logining_to": "Logining to account %{name}",
+  "logined_to": "Logined to account %{name}"
+}
